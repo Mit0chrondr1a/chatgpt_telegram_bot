@@ -137,16 +137,30 @@ config/config.env
 
 mongodb/
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 049633a (init my own setup)
 
 docker-compose.dev.yml
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 >>>>>>> a2e10e8 (init my own setup)
 =======
 =======
+>>>>>>> 049633a (init my own setup)
+=======
 
 docker-compose.dev.yml
 >>>>>>> 460d8ea (init my own setup)
+<<<<<<< HEAD
 >>>>>>> 28df65a (init my own setup)
+=======
+
+
+>>>>>>> 24d1ae9 (init my own setup)
+=======
+>>>>>>> 049633a (init my own setup)
