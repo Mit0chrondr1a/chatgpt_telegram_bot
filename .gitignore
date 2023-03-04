@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#database
+mongodb/
+
 # C extensions
 *.so
 
@@ -132,6 +135,6 @@ dmypy.json
 config/config.yml
 config/config.env
 
-docker-compose.dev.yml
-
 mongodb/
+
+docker-compose.dev.yml
