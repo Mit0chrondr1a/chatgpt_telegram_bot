@@ -136,5 +136,10 @@ config/config.yml
 config/config.env
 
 mongodb/
+<<<<<<< HEAD
 
 docker-compose.dev.yml
+=======
+
+
+>>>>>>> a2e10e8 (init my own setup)
