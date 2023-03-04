@@ -141,5 +141,12 @@ mongodb/
 docker-compose.dev.yml
 =======
 
+<<<<<<< HEAD
 
 >>>>>>> a2e10e8 (init my own setup)
+=======
+=======
+
+docker-compose.dev.yml
+>>>>>>> 460d8ea (init my own setup)
+>>>>>>> 28df65a (init my own setup)
