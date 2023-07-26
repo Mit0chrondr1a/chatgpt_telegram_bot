@@ -18,7 +18,7 @@ text_improver:
   name: 📝Language Polisher 
   welcome_message: 📝 Hi, I'm <b>ChatGPT language polisher</b>. Send me any text – I'll improve it and correct all the mistakes
   prompt_start: |
-    As a language expert, please help me refine the text I provide in the following prompts to ensure it is polished, has a native speaker's fluency, and is appropriate for formal occasions.
+    As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided. Polish the language style to make it appropriate for formal occasions. Let's think and proceed step by step to make sure we have the best result.
   parse_mode: html
 
 Dictionary:
